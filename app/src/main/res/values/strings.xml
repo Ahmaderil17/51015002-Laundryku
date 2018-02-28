@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laundryku</string>
+    <string-array name="names">
+        <item>Kategori</item>
+        <item>Pakaian</item>
+        <item>Celana</item>
+        <item>Dalaman</item>
+        <item>Lain-lain</item>
+    </string-array>
+</resources>
